@@ -1,0 +1,4 @@
+# Dependências principais do projeto
+# OBS: O Gurobi é um software proprietário e requer licença válida.
+
+gurobipy>=11.0.0
